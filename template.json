@@ -1,0 +1,36 @@
+{
+"contact": "United Gacha Alliance: https://discord.gg/unitedgacha",
+"templates": [
+{
+"name": "UGA Collab Banner",
+"sources": [
+"https://cdn.discordapp.com/attachments/1131385425102119004/1131394475839721522/6Xvxj7P8UEjvVUqfeqaE.png"
+],
+"x": 1010,
+"y": 1698
+},
+{
+"name": "UGA Diamond",
+"sources": [
+"https://cdn.discordapp.com/attachments/1131380919199076372/1131422705409871872/uws9fBMBbB0CZC1Jtggj.png"
+],
+"x": 160,
+"y": 718
+}
+],
+"whitelist": [
+{
+"name": "GirlsFrontline & r/waifubartending",
+"url": "https://rentry.co/PlaceFrontline/raw"
+},
+{
+"name": "Umamusume & Senko",
+"url": "http://ub8qbd.satdump.org/umasenko.json"
+},
+{
+"name": "P3ACE",
+"url": "https://charity.pxls.space/p3ace"
+}
+],
+"blacklist": []
+}
