@@ -1,52 +1,119 @@
 {
-"contact": "United Gacha Alliance: https://discord.gg/unitedgacha",
-"templates": [
-{
-"name": "UGA Collab Banner",
-"sources": [
-"https://cdn.discordapp.com/attachments/1131385425102119004/1131394475839721522/6Xvxj7P8UEjvVUqfeqaE.png"
-],
-"x": 10,
-"y": 1698
-},
-{
-"name": "Guardian Tales",
-"sources": [
-"https://cdn.discordapp.com/attachments/1131435983448055818/1131647739546062858/iwTt3ngSUcNdAORQK3aA.png"
-],
-"x": 251,
-"y": 773
-},
-{
-"name": "UGA Pyroxene",
-"sources": [
-"https://cdn.discordapp.com/attachments/1131385425102119004/1131615160314892288/pW2taAv7jdD7IpaoxCWs.png"
-],
-"x": 159,
-"y": 717
-}
-],
-"whitelist": [
-{
-"name": "GirlsFrontline & r/waifubartending",
-"url": "https://gist.githubusercontent.com/Eremeir/22bac3c2e578c464304922204a0febd2/raw"
-},
-{
-"name": "Umamusume & Senko",
-"url": "http://ub8qbd.satdump.org/umasenko.json"
-},
-{
-"name": "Neuro-sama",
-"url": "https://neuroplace.pages.dev/bruh.json"
-},
-{
-"name": "Inabakumori Station",
-"url": "https://gist.githubusercontent.com/D-Brox/4b2455793cabe33be61f040582838c8e/raw"
-},
-{
-"name": "P3ACE",
-"url": "https://charity.pxls.space/p3ace"
-}
-],
-"blacklist": []
+
+  "contact": "United Gacha Alliance: https://discord.gg/unitedgacha",
+
+  "templates": [
+
+    {
+
+      "name": "UGA Collab Banner",
+
+      "sources": [
+
+        "https://cdn.discordapp.com/attachments/1131385425102119004/1131394475839721522/6Xvxj7P8UEjvVUqfeqaE.png"
+
+      ],
+
+      "x": 10,
+
+      "y": 1698
+
+    },
+
+    {
+
+      "name": "Guardian Tales",
+
+      "sources": [
+
+        "https://cdn.discordapp.com/attachments/1131435983448055818/1131647739546062858/iwTt3ngSUcNdAORQK3aA.png"
+
+      ],
+
+      "x": 251,
+
+      "y": 773
+
+    },
+
+    {
+
+      "name": "UGA Pyroxene",
+
+      "sources": [
+
+        "https://cdn.discordapp.com/attachments/1131385425102119004/1131615160314892288/pW2taAv7jdD7IpaoxCWs.png"
+
+      ],
+
+      "x": 159,
+
+      "y": 717
+
+    },
+
+    {
+
+      "name": "Tentative UGA Pyroxene",
+
+      "sources": [
+
+        "https://cdn.discordapp.com/attachments/1131385425102119004/1131615160314892288/pW2taAv7jdD7IpaoxCWs.png"
+
+      ],
+
+      "x": 374,
+
+      "y": 19
+
+    }
+
+  ],
+
+  "whitelist": [
+
+    {
+
+      "name": "GirlsFrontline & r/waifubartending",
+
+      "url": "https://gist.githubusercontent.com/Eremeir/22bac3c2e578c464304922204a0febd2/raw"
+
+    },
+
+    {
+
+      "name": "Umamusume & Senko",
+
+      "url": "http://ub8qbd.satdump.org/umasenko.json"
+
+    },
+
+    {
+
+      "name": "Neuro-sama",
+
+      "url": "https://neuroplace.pages.dev/bruh.json"
+
+    },
+
+    {
+
+      "name": "Inabakumori Station",
+
+      "url": "https://gist.githubusercontent.com/D-Brox/4b2455793cabe33be61f040582838c8e/raw"
+
+    },
+
+    {
+
+      "name": "P3ACE",
+
+      "url": "https://charity.pxls.space/p3ace"
+
+    }
+
+  ],
+
+  "blacklist": []
+
 }
