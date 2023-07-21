@@ -42,14 +42,6 @@
       "y": 553
     },
     {
-      "name": "Girls' Frontline & r/waifubartending; TEMP UNTIL EREMEIR RETURNS",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1087966173703966790/1131840274071552021/day1_combined-export.png"
-      ],
-      "x": 812,
-      "y": 572
-    },
-    {
       "name": "Sneaky Sasquatch",
       "sources": [
         "https://cdn.discordapp.com/attachments/1131745448764391514/1131794304977862797/hYvZyxeXReDHSyhljN1h.png"
@@ -81,7 +73,7 @@
     },
     {
       "name": "Tetris",
-      "url": "https://raw.githubusercontent.com/riuneko/placetris/main/tetris.jsonv"
+      "url": "https://raw.githubusercontent.com/riuneko/placetris/main/tetris.json"
     },
     {
       "name": "P3ACE",
@@ -89,7 +81,7 @@
     },
     {
       "name": "Kafka Mains",
-      "url": "https://gist.githubusercontent.com/Hazz4rd/8d5d8e413a063392c47472d255f3c1e7/raw/8b03a9715c4d0d547bcfe7e6737202c99b1a9fa0/gistfile1.txt"
+      "url": "https://gist.githubusercontent.com/Hazz4rd/8d5d8e413a063392c47472d255f3c1e7/raw"
     }
   ],
   "blacklist": []
