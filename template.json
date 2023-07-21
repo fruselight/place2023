@@ -52,36 +52,8 @@
   ],
   "whitelist": [
     {
-      "name": "Honkai: Star Rail",
-      "url": "https://gist.githubusercontent.com/littlemarizz/9851744a637eccef5395b3f246b81f7f/raw"
-    },
-    {
-      "name": "Umamusume & Senko",
-      "url": "http://ub8qbd.satdump.org/umasenko.json"
-    },
-    {
-      "name": "Neuro-sama",
-      "url": "https://neuroplace.pages.dev/bruh.json"
-    },
-    {
-      "name": "Inabakumori Station",
-      "url": "https://gist.githubusercontent.com/D-Brox/4b2455793cabe33be61f040582838c8e/raw"
-    },
-    {
-      "name": "Tetris",
-      "url": "https://raw.githubusercontent.com/riuneko/placetris/main/tetris.json"
-    },
-    {
-      "name": "Project Moon (@R4D1 on Discord)",
-      "url": "https://raw.githubusercontent.com/GEND1ARMER4/PMreddit/main/PM"
-    },
-    {
       "name": "P3ACE",
       "url": "https://charity.pxls.space/p3ace"
-    },
-    {
-      "name": "Sneaky Sasquatch",
-      "url": "https://adamxu.net/sasquatch.json"
     }
   ],
   "blacklist": []
