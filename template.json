@@ -2,14 +2,6 @@
   "contact": "United Gacha Alliance: https://discord.gg/unitedgacha",
   "templates": [
     {
-      "name": "Test post, please ignore",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131263002465808494/1131776165498081370/e5yYnmqU6aHqRNily5tQ.png"
-      ],
-      "x": 1000,
-      "y": 1000
-    },
-    {
       "name": "UGA Collab Banner",
       "sources": [
         "https://cdn.discordapp.com/attachments/1131385425102119004/1131394475839721522/6Xvxj7P8UEjvVUqfeqaE.png"
