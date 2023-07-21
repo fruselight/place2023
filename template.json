@@ -80,5 +80,10 @@
       "url": "https://adamxu.net/sasquatch.json"
     }
   ],
-  "blacklist": []
+  "blacklist": [
+    {
+      "name": "Old UGA link",
+      "url": "https://rentry.org/unitedgacha/raw"
+    }
+  ]
 }
