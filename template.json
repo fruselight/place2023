@@ -1,92 +1,199 @@
 {
+
   "contact": "United Gacha Alliance: https://discord.gg/unitedgacha",
+
   "templates": [
+
     {
+
       "name": "UGA Collab Banner",
+
       "sources": [
+
         "https://cdn.discordapp.com/attachments/1131263002465808494/1131776165720363059/CdD8qq6gsMQDmoLPpV1W.png"
+
       ],
+
       "x": 10,
+
       "y": 1698
+
     },
+
     {
+
       "name": "Guardian Tales",
+
       "sources": [
+
         "https://cdn.discordapp.com/attachments/1131435983448055818/1131647739546062858/iwTt3ngSUcNdAORQK3aA.png"
+
       ],
+
       "x": 165,
+
       "y": 646
+
     },
+
     {
+
       "name": "Arona",
+
       "sources": [
+
         "https://cdn.discordapp.com/attachments/1131263002465808494/1131826429349335171/B6BBhFwVKDODf6PB0aQ6.png"
+
       ],
+
       "x": 825,
+
       "y": 498
+
     },
+
     {
+
       "name": "UGA Pyroxene",
+
       "sources": [
+
         "https://cdn.discordapp.com/attachments/1131263002465808494/1131794530513981470/EGeWeRyL6vGrcxcABDqB.png"
+
       ],
+
       "x": 869,
+
       "y": 519
+
     },
+
     {
+
       "name": "Maryland",
+
       "sources": [
+
         "https://cdn.discordapp.com/attachments/1131747485547765881/1131747485908484187/Maryland.png"
+
       ],
+
       "x": 869,
+
       "y": 553
+
     },
+
     {
+
       "name": "Sneaky Sasquatch",
+
       "sources": [
+
         "https://cdn.discordapp.com/attachments/1131745448764391514/1131794304977862797/hYvZyxeXReDHSyhljN1h.png"
+
       ],
+
       "x": 892,
+
       "y": 526
+
+    },
+
+    {
+
+      "name": "Shirokko",
+
+      "sources": [
+
+        "https://cdn.discordapp.com/attachments/1131812850483073104/1131981535751446688/Kuroko_2023_place.png"
+
+      ],
+
+      "x": 800,
+
+      "y": 129
+
     }
+
   ],
+
   "whitelist": [
+
     {
+
       "name": "Girls' Frontline & r/waifubartending",
+
       "url": "https://gist.githubusercontent.com/Eremeir/22bac3c2e578c464304922204a0febd2/raw"
+
     },
+
     {
+
       "name": "Honkai: Star Rail",
+
       "url": "https://gist.githubusercontent.com/littlemarizz/9851744a637eccef5395b3f246b81f7f/raw"
+
     },
+
     {
+
       "name": "Umamusume & Senko",
+
       "url": "http://ub8qbd.satdump.org/umasenko.json"
+
     },
+
     {
+
       "name": "Neuro-sama",
+
       "url": "https://neuroplace.pages.dev/bruh.json"
+
     },
+
     {
+
       "name": "Inabakumori Station",
+
       "url": "https://gist.githubusercontent.com/D-Brox/4b2455793cabe33be61f040582838c8e/raw"
+
     },
+
     {
+
       "name": "Tetris",
+
       "url": "https://raw.githubusercontent.com/riuneko/placetris/main/tetris.json"
+
     },
+
     {
+
       "name": "Project Moon (@R4D1 on Discord)",
+
       "url": "https://raw.githubusercontent.com/GEND1ARMER4/PMreddit/main/PM"
+
     },
+
     {
+
       "name": "P3ACE",
+
       "url": "https://charity.pxls.space/p3ace"
+
     },
+
     {
+
       "name": "Kafka Mains",
+
       "url": "https://gist.githubusercontent.com/Hazz4rd/8d5d8e413a063392c47472d255f3c1e7/raw"
+
     }
+
   ],
+
   "blacklist": []
+
 }
