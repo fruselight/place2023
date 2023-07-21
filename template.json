@@ -40,14 +40,6 @@
       ],
       "x": 869,
       "y": 553
-    },
-    {
-      "name": "Sneaky Sasquatch",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131745448764391514/1131794304977862797/hYvZyxeXReDHSyhljN1h.png"
-      ],
-      "x": 892,
-      "y": 526
     }
   ],
   "whitelist": [
@@ -82,6 +74,10 @@
     {
       "name": "P3ACE",
       "url": "https://charity.pxls.space/p3ace"
+    },
+    {
+      "name": "Sneaky Sasquatch",
+      "url": "https://adamxu.net/sasquatch.json"
     },
     {
       "name": "Kafka Mains",
