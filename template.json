@@ -42,6 +42,14 @@
       "y": 553
     },
     {
+      "name": "Girls' Frontline & r/waifubartending; TEMP UNTIL EREMEIR RETURNS",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1087966173703966790/1131840274071552021/day1_combined-export.png"
+      ],
+      "x": 812,
+      "y": 570
+    },
+    {
       "name": "Sneaky Sasquatch",
       "sources": [
         "https://cdn.discordapp.com/attachments/1131745448764391514/1131794304977862797/hYvZyxeXReDHSyhljN1h.png"
@@ -52,7 +60,7 @@
   ],
   "whitelist": [
     {
-      "name": "GirlsFrontline & r/waifubartending",
+      "name": "Girls' Frontline & r/waifubartending",
       "url": "https://gist.githubusercontent.com/Eremeir/22bac3c2e578c464304922204a0febd2/raw"
     },
     {
