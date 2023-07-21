@@ -44,12 +44,8 @@
   ],
   "whitelist": [
     {
-      "name": "Girls' Frontline & r/waifubartending",
-      "url": "https://gist.githubusercontent.com/Eremeir/22bac3c2e578c464304922204a0febd2/raw"
-    },
-    {
-      "name": "Honkai: Star Rail",
-      "url": "https://gist.githubusercontent.com/littlemarizz/9851744a637eccef5395b3f246b81f7f/raw"
+      "name": "P3ACE",
+      "url": "https://charity.pxls.space/p3ace"
     },
     {
       "name": "Umamusume & Senko",
@@ -60,20 +56,20 @@
       "url": "https://neuroplace.pages.dev/bruh.json"
     },
     {
+      "name": "Honkai: Star Rail",
+      "url": "https://gist.githubusercontent.com/littlemarizz/9851744a637eccef5395b3f246b81f7f/raw"
+    },
+    {
+      "name": "Kafka Ult (Hazz4rd)",
+      "url": "https://gist.githubusercontent.com/Hazz4rd/8d5d8e413a063392c47472d255f3c1e7/raw"
+    },
+    {
       "name": "Inabakumori Station",
       "url": "https://gist.githubusercontent.com/D-Brox/4b2455793cabe33be61f040582838c8e/raw"
     },
     {
-      "name": "Tetris",
-      "url": "https://raw.githubusercontent.com/riuneko/placetris/main/tetris.json"
-    },
-    {
       "name": "Project Moon (@R4D1 on Discord)",
       "url": "https://raw.githubusercontent.com/GEND1ARMER4/PMreddit/main/PM"
-    },
-    {
-      "name": "P3ACE",
-      "url": "https://charity.pxls.space/p3ace"
     },
     {
       "name": "Sneaky Sasquatch",
