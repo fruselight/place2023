@@ -46,6 +46,14 @@
     {
       "name": "Project Moon (@R4D1 on Discord)",
       "url": "https://raw.githubusercontent.com/GEND1ARMER4/PMreddit/main/PM"
+    },
+    {
+      "name": "Oshi no Ko/Senko",
+      "url": "http://ub8qbd.satdump.org/waitroom.json"
+    },
+    {
+      "name": "Türkiye",
+      "url": "https://kn0.dev/porcay.json"
     }
   ],
   "blacklist": [
