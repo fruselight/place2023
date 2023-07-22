@@ -26,6 +26,16 @@
       "y": 646
     }
   ],
-  "whitelist": [],
-  "blacklist": []
+  "whitelist": [
+    {
+      "name": "P3ACE",
+      "url": "https://charity.pxls.space/p3ace"
+    }
+  ],
+  "blacklist": [
+    {
+      "name": "Old UGA link",
+      "url": "https://rentry.org/unitedgacha/raw"
+    }
+  ]
 }
