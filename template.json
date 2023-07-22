@@ -4,7 +4,7 @@
     {
       "name": "UGA Banner West",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1132203128087908392/1132213196648882246/J8FLkWwKmYthOieMBK56.png"
+        "https://cdn.discordapp.com/attachments/1131263002465808494/1132335022909685911/EvneavcPXR7sMPeYlK3Q.png"
       ],
       "x": 250,
       "y": 625
@@ -26,22 +26,6 @@
       "y": 647
     },
     {
-      "name": "Arona",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131812850483073104/1132244979494961152/Wh7e92cEGLQt73ZvtFSI.png"
-      ],
-      "x": 189,
-      "y": 706
-    },
-    {
-      "name": "PGR GBF FEH Trio",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131263002465808494/1132259554030260245/12uI2x9j82pbpHSRAvRL.png"
-      ],
-      "x": 168,
-      "y": 635
-    },
-    {
       "name": "Slime Isekai Memories",
       "sources": [
         "https://media.discordapp.net/attachments/1132255820147605565/1132321326347063376/slime.png?width=24&height=28"
@@ -54,6 +38,14 @@
     {
       "name": "P3ACE",
       "url": "https://charity.pxls.space/p3ace"
+    },
+    {
+      "name": "Inabakumori Station",
+      "url": "https://gist.githubusercontent.com/D-Brox/4b2455793cabe33be61f040582838c8e/raw"
+    },
+    {
+      "name": "Project Moon (@R4D1 on Discord)",
+      "url": "https://raw.githubusercontent.com/GEND1ARMER4/PMreddit/main/PM"
     }
   ],
   "blacklist": [
