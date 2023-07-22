@@ -2,112 +2,14 @@
   "contact": "United Gacha Alliance: https://discord.gg/unitedgacha",
   "templates": [
     {
-      "name": "UGA Banner East",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1132203128087908392/1132213196648882246/J8FLkWwKmYthOieMBK56.png"
-      ],
-      "x": 1550,
-      "y": 750
-    },
-    {
       "name": "UGA Banner West",
       "sources": [
         "https://cdn.discordapp.com/attachments/1132203128087908392/1132213196648882246/J8FLkWwKmYthOieMBK56.png"
       ],
       "x": 250,
       "y": 625
-    },
-    {
-      "name": "UGA Banner North",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1132203128087908392/1132213196648882246/J8FLkWwKmYthOieMBK56.png"
-      ],
-      "x": 900,
-      "y": 150
-    },
-    {
-      "name": "UGA Banner South",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1132203128087908392/1132213196648882246/J8FLkWwKmYthOieMBK56.png"
-      ],
-      "x": 900,
-      "y": 1200
-    },
-    {
-      "name": "Pyroxene",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131263002465808494/1132108315032309920/d9ytH149O9WHs1mCYFfc.png"
-      ],
-      "x": 1000,
-      "y": 500
-    },
-    {
-      "name": "Guardian Tales",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131435983448055818/1131647739546062858/iwTt3ngSUcNdAORQK3aA.png"
-      ],
-      "x": 165,
-      "y": 647
-    },
-    {
-      "name": "Arona",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131263002465808494/1131826429349335171/B6BBhFwVKDODf6PB0aQ6.png"
-      ],
-      "x": 825,
-      "y": 498
-    },
-    {
-      "name": "Maryland",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131747485547765881/1131747485908484187/Maryland.png"
-      ],
-      "x": 869,
-      "y": 553
     }
   ],
-  "whitelist": [
-    {
-      "name": "P3ACE",
-      "url": "https://charity.pxls.space/p3ace"
-    },
-    {
-      "name": "Umamusume & Senko",
-      "url": "http://ub8qbd.satdump.org/umasenko.json"
-    },
-    {
-      "name": "Neuro-sama",
-      "url": "https://neuroplace.pages.dev/bruh.json"
-    },
-    {
-      "name": "Honkai: Star Rail",
-      "url": "https://gist.githubusercontent.com/littlemarizz/9851744a637eccef5395b3f246b81f7f/raw"
-    },
-    {
-      "name": "Oshi no Ko",
-      "url": "http://ub8qbd.satdump.org/oshinoko.json"
-    },
-    {
-      "name": "Kafka Ult (Hazz4rd)",
-      "url": "https://gist.githubusercontent.com/Hazz4rd/8d5d8e413a063392c47472d255f3c1e7/raw"
-    },
-    {
-      "name": "Inabakumori Station",
-      "url": "https://gist.githubusercontent.com/D-Brox/4b2455793cabe33be61f040582838c8e/raw"
-    },
-    {
-      "name": "Project Moon (@R4D1 on Discord)",
-      "url": "https://raw.githubusercontent.com/GEND1ARMER4/PMreddit/main/PM"
-    },
-    {
-      "name": "Sneaky Sasquatch",
-      "url": "https://adamxu.net/sasquatch.json"
-    }
-  ],
-  "blacklist": [
-    {
-      "name": "Old UGA link",
-      "url": "https://rentry.org/unitedgacha/raw"
-    }
-  ]
+  "whitelist": [],
+  "blacklist": []
 }
