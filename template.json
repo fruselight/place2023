@@ -7,7 +7,7 @@
         "https://cdn.discordapp.com/attachments/1131263002465808494/1132403225211977768/8WLOjCUdMPuAoUwVijte.png"
       ],
       "x": 250,
-      "y": 625
+      "y": 1125
     },
     {
       "name": "Pyroxene",
@@ -15,7 +15,7 @@
         "https://cdn.discordapp.com/attachments/1131263002465808494/1132108315032309920/d9ytH149O9WHs1mCYFfc.png"
       ],
       "x": 1500,
-      "y": 500
+      "y": 1000
     },
     {
       "name": "Guardian Tales",
@@ -23,7 +23,7 @@
         "https://cdn.discordapp.com/attachments/1131435983448055818/1132417197420068935/SlzxnonNkvV9VsxdHaw0.png"
       ],
       "x": 638,
-      "y": 350
+      "y": 850
     },
     {
       "name": "Slime Isekai Memories",
@@ -31,7 +31,7 @@
         "https://media.discordapp.net/attachments/1132255820147605565/1132321326347063376/slime.png?width=24&height=28"
       ],
       "x": 340,
-      "y": 749
+      "y": 1249
     }
   ],
   "whitelist": [
