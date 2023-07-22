@@ -32,6 +32,14 @@
       ],
       "x": 189,
       "y": 706
+    },
+    {
+      "name": "Fire Emblem",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131263002465808494/1132247119684702278/28WMWF8lzm8PheaXyAba.png"
+      ],
+      "x": 169,
+      "y": 652
     }
   ],
   "whitelist": [
