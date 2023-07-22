@@ -76,6 +76,10 @@
       "url": "https://raw.githubusercontent.com/HappyDOGE/touhouplace2023/main/template.json"
     },
     {
+      "name": "r/hatsune",
+      "url": "https://hatsune.proxnet.dev/place/overlayRaw"
+    },
+    {
       "name": "Türkiye",
       "url": "https://kn0.dev/porcay.json"
     }
