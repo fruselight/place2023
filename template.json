@@ -40,6 +40,10 @@
       "url": "https://charity.pxls.space/p3ace"
     },
     {
+      "name": "GFL + VA-11 Hall-A",
+      "url": "https://raw.githubusercontent.com/Eremeir/rGFLNeuralCloudCSS/master/placefrontline.json"
+    },
+    {
       "name": "Genshin",
       "url": "https://gist.githubusercontent.com/LeftHandedBread/1619ae0c676814bacb7a2fab0a93d3c7/raw"
     },
@@ -62,6 +66,14 @@
     {
       "name": "Umamusume + Senko Collab",
       "url": "http://ub8qbd.satdump.org/umasenko.json"
+    },
+    {
+      "name": "UmaSenko but French",
+      "url": "https://sayrix.github.io/PlaceFR/overlay.json"
+    },
+    {
+      "name": "Touhou",
+      "url": "https://raw.githubusercontent.com/HappyDOGE/touhouplace2023/main/template.json"
     },
     {
       "name": "Türkiye",
