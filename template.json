@@ -40,6 +40,14 @@
       ],
       "x": 168,
       "y": 635
+    },
+    {
+      "name": "Slime Isekai Memories",
+      "sources": [
+        "https://media.discordapp.net/attachments/1132255820147605565/1132321326347063376/slime.png?width=24&height=28"
+      ],
+      "x": 340,
+      "y": 747
     }
   ],
   "whitelist": [
