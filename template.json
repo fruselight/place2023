@@ -26,6 +26,14 @@
       "y": 450
     },
     {
+      "name": "Texas",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131812850483073104/1132530413852704808/pixil-frame-0.png"
+      ],
+      "x": 500,
+      "y": 477
+    }
+    {
       "name": "Guardian Tales",
       "sources": [
         "https://cdn.discordapp.com/attachments/1131435983448055818/1132417197420068935/SlzxnonNkvV9VsxdHaw0.png"
