@@ -10,14 +10,6 @@
       "y": 1121
     },
     {
-      "name": "UGA Banner Mask 16 colour",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131263002465808494/1132645236527611994/WH0b51VhGdokJgECdUgh.png"
-      ],
-      "x": 250,
-      "y": 1125
-    },
-    {
       "name": "Arona",
       "sources": [
         "https://cdn.discordapp.com/attachments/1131812850483073104/1132540776186925076/OQddjh3rV2btErBfaCQq.png"
@@ -114,4 +106,3 @@
       "url": "https://rentry.org/unitedgacha/raw"
     }
   ]
-}
