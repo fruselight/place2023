@@ -2,7 +2,7 @@
   "contact": "United Gacha Alliance: https://discord.gg/unitedgacha",
   "templates": [
     {
-      "name": "UGA Banner",
+      "name": "UGA Banner Base",
       "sources": [
         "https://cdn.discordapp.com/attachments/1131263002465808494/1132646359535730828/YKVZPUrQ0AJ091rZVXeW.png"
       ],
@@ -24,6 +24,22 @@
       ],
       "x": 501,
       "y": 450
+    },
+    {
+      "name": "Arona 2",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131812850483073104/1132652530556477470/arona_uwogh-picsay.png"
+      ],
+      "x": 307,
+      "y": 1600
+    },
+    {
+      "name": "Arona 3",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131812850483073104/1132652530556477470/arona_uwogh-picsay.png"
+      ],
+      "x": 109,
+      "y": 1600
     },
     {
       "name": "Texas",
