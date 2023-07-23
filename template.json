@@ -4,10 +4,10 @@
     {
       "name": "UGA Banner Base",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1131263002465808494/1132655185546715156/9JHcjn8XXq9g5VxnpLxr.png"
+        "https://media.discordapp.net/attachments/1131263002465808494/1132660944175124510/UGAbanner.png?width=183&height=152"
       ],
       "x": 250,
-      "y": 1125
+      "y": 1121
     },
     {
       "name": "UGA Banner Mask 16 colour",
