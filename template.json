@@ -40,6 +40,14 @@
       ],
       "x": 638,
       "y": 850
+    },
+    {
+      "name": "PGR Template",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131609689482854420/1132788740734062622/150_Sem_Titulo_20230723183754.png"
+      ],
+      "x": 891,
+      "y": 1910
     }
   ],
   "whitelist": [
