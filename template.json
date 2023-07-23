@@ -92,6 +92,10 @@
       "url": "https://kn0.dev/porcay.json"
     },
     {
+      "name": "PlaceEU",
+      "url": "https://raw.githubusercontent.com/Malormar/PlaceEU/main/template.json"
+    },
+    {
       "name": "Indie Alliance V2",
       "url": "https://gist.github.com/AresWacky/926ff6fe925c7268f4a6bceef441469c/raw"
     },
