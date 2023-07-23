@@ -4,6 +4,14 @@
     {
       "name": "UGA Banner",
       "sources": [
+        "https://cdn.discordapp.com/attachments/1131263002465808494/1132588248917618749/B8YmASOkfF0LwmuCD6LV.png"
+      ],
+      "x": 250,
+      "y": 1125
+    },
+    {
+      "name": "UGA Banner Mask 16 colour",
+      "sources": [
         "https://cdn.discordapp.com/attachments/1131263002465808494/1132633670847582228/fStOC0JtZFKvXlVfxvSm.png"
       ],
       "x": 250,
