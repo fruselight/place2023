@@ -2,9 +2,9 @@
   "contact": "United Gacha Alliance: https://discord.gg/unitedgacha",
   "templates": [
     {
-      "name": "UGA Banner Base",
+      "name": "UGA Banner Mask",
       "sources": [
-        "https://media.discordapp.net/attachments/1131263002465808494/1132661383515869184/UGAbanner.png"
+        "https://cdn.discordapp.com/attachments/1131263002465808494/1132725364582514798/ikBNxvjXQ21qrKShYsgW.png"
       ],
       "x": 250,
       "y": 1121
