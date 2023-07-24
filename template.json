@@ -146,6 +146,10 @@
     {
       "name": "Madoka",
       "url": "https://nyancat.de/mado16.json"
+    },
+    {
+      "name": "Magia Recird",
+      "url": "https://nyancat.de/mado16.json"
     }
   ],
   "blacklist": [
