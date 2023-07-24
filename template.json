@@ -51,6 +51,78 @@
     }
   ],
   "whitelist": [
+    {
+      "name": "P3ACE",
+      "url": "https://charity.pxls.space/p3ace"
+    },
+    {
+      "name": "PlaceStart",
+      "url": "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart.json"
+    },
+    {
+      "name": "GFL + VA-11 Hall-A",
+      "url": "https://gist.githubusercontent.com/Eremeir/22bac3c2e578c464304922204a0febd2/raw"
+    },
+    {
+      "name": "Genshin",
+      "url": "https://gist.githubusercontent.com/LeftHandedBread/1619ae0c676814bacb7a2fab0a93d3c7/raw"
+    },
+    {
+      "name": "Neuro-sama",
+      "url": "https://neuroplace.pages.dev/bruh.json"
+    },
+    {
+      "name": "Inabakumori Station",
+      "url": "https://gist.githubusercontent.com/D-Brox/4b2455793cabe33be61f040582838c8e/raw"
+    },
+    {
+      "name": "Project Moon (@R4D1 on Discord)",
+      "url": "https://raw.githubusercontent.com/GEND1ARMER4/PMreddit/main/PM"
+    },
+    {
+      "name": "Oshi no Ko/Senko",
+      "url": "http://ub8qbd.satdump.org/waitroom.json"
+    },
+    {
+      "name": "Umamusume + Senko Collab",
+      "url": "http://ub8qbd.satdump.org/umasenko.json"
+    },
+    {
+      "name": "UmaSenko but French",
+      "url": "https://sayrix.github.io/PlaceFR/overlay.json"
+    },
+    {
+      "name": "Touhou",
+      "url": "https://raw.githubusercontent.com/HappyDOGE/touhouplace2023/main/template.json"
+    },
+    {
+      "name": "r/hatsune",
+      "url": "https://hatsune.proxnet.dev/place/overlayRaw"
+    },
+    {
+      "name": "Türkiye",
+      "url": "https://kn0.dev/porcay.json"
+    },
+    {
+      "name": "PlaceEU",
+      "url": "https://raw.githubusercontent.com/Malormar/PlaceEU/main/template.json"
+    },
+    {
+      "name": "Indie Alliance V2",
+      "url": "https://gist.github.com/AresWacky/926ff6fe925c7268f4a6bceef441469c/raw"
+    },
+    {
+      "name": "r/placefemboy",
+      "url": "https://pastebin.com/raw/ESaN3Csh"
+    },
+    {
+      "name": "HSRplace",
+      "url": "https://gist.githubusercontent.com/Pand3sal/2aef9c1ee2ff258c016c1574aaa6d251/raw"
+    },
+    {
+      "name": "Madoka",
+      "url": "https://nyancat.de/mado16.json"
+    }
   ],
   "blacklist": [
     {
