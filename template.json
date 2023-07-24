@@ -64,6 +64,14 @@
       ],
       "x": 1556,
       "y": 1935
+    },
+    {
+      "name": "Miuna Artwork",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131263002465808494/1132873567873290300/image_6.png"
+      ],
+      "x": 1423,
+      "y": 1868
     }
   ],
   "whitelist": [
