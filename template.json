@@ -4,7 +4,7 @@
     {
       "name": "UGA Banner Mask",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1131263002465808494/1133019545305628672/36qg0ALwz7Y1OP7OdFca.png"
+        "https://cdn.discordapp.com/attachments/1131263002465808494/1133039289329008680/j8bXl9duGckejs4qqcyT.png"
       ],
       "x": 750,
       "y": 1121
@@ -16,6 +16,14 @@
       ],
       "x": 629,
       "y": 1787
+    },
+    {
+      "name": "Arona 2",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131812850483073104/1133038891457319022/aronauchfh.png"
+      ],
+      "x": 2120,
+      "y": 1968
     },
     {
       "name": "Texas",
