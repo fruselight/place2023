@@ -1,197 +1,409 @@
 {
+
   "contact": "United Gacha Alliance: https://discord.gg/unitedgacha",
+
   "templates": [
+
     {
+
       "name": "UGA Banner Mask",
+
       "sources": [
+
         "https://media.discordapp.net/attachments/1131263002465808494/1133071350345510952/Gacha_allience_Amiya_V5_snowpile.png"
+
       ],
+
       "x": 750,
+
       "y": 1121
+
     },
+
     {
+
       "name": "Arona",
+
       "sources": [
+
         "https://cdn.discordapp.com/attachments/1131812850483073104/1132828450655322223/wXfDWMignBEJWE0HAxea.png"
+
       ],
+
       "x": 629,
+
       "y": 1787
+
     },
+
     {
+
       "name": "Arona 2",
+
       "sources": [
+
         "https://cdn.discordapp.com/attachments/1131812850483073104/1133038891457319022/aronauchfh.png"
+
       ],
+
       "x": 247,
+
       "y": 1830
+
     },
+
     {
+
       "name": "Texas",
+
       "sources": [
+
         "https://cdn.discordapp.com/attachments/1131812850483073104/1132530413852704808/pixil-frame-0.png"
+
       ],
+
       "x": 807,
+
       "y": 1600
+
     },
+
     {
+
       "name": "Epic Seven",
+
       "sources": [
+
         "https://media.discordapp.net/attachments/1131259601036267671/1133094765504766003/pixel-26x26.png"
+
       ],
+
       "x": 2706,
+
       "y": 1317
+
     },
+
     {
+
       "name": "Guardian Tales",
+
       "sources": [
+
         "https://cdn.discordapp.com/attachments/1131435983448055818/1132417197420068935/SlzxnonNkvV9VsxdHaw0.png"
+
       ],
+
       "x": 1138,
+
       "y": 850
+
     },
+
     {
+
       "name": "Cygames Quartet",
+
       "sources": [
+
         "https://cdn.discordapp.com/attachments/1131436067644506142/1132535688340983878/waw16FINAL.png"
+
       ],
+
       "x": 1251,
+
       "y": 1936
+
     },
+
     {
+
       "name": "PGR",
+
       "sources": [
+
         "https://cdn.discordapp.com/attachments/1131609689482854420/1132829914148642927/150_Sem_Titulo_20230723205422.png"
+
       ],
+
       "x": 468,
+
       "y": 1252
+
     },
+
     {
+
       "name": "Cygames Duet",
+
       "sources": [
+
         "https://cdn.discordapp.com/attachments/1131263002465808494/1132861368173875260/Day_1_small.png"
+
       ],
+
       "x": 1556,
+
       "y": 1935
+
     },
+
     {
+
       "name": "Miuna Artwork",
+
       "sources": [
+
         "https://media.discordapp.net/attachments/1132203469571362826/1133105714248810706/image.png"
+
       ],
+
       "x": 1423,
+
       "y": 1868
+
     },
+
     {
+
       "name": "Honkai 3rd",
+
       "sources": [
+
         "https://media.discordapp.net/attachments/748082857465086065/1133023469819412552/UGA_Ellie-Signet.png?width=57&height=56"
+
       ],
+
       "x": 2736,
+
       "y": 1225
+
     },
+
     {
+
       "name": "Machi",
+
       "sources": [
+
         "https://media.discordapp.net/attachments/1131263002465808494/1132931547599732776/image_7.png?width=12&height=16"
+
       ],
+
       "x": 780,
+
       "y": 1235
+
     },
+
     {
+
       "name": "F/SN Tohsaka Rin",
+
       "sources": [
+
         "https://media.discordapp.net/attachments/1132906688677171331/1132968439850483824/Rin_with_dutch_ribbon.png"
+
       ],
+
       "x": 97,
+
       "y": 492
+
     },
+
     {
+
       "name": "r/CharlotteMains",
+
       "sources": [
+
         "https://cdn.discordapp.com/attachments/1132251603336953876/1132980795296976987/dotpict.png"
+
       ],
+
       "x": 1141,
+
       "y": 1669
+
+    },
+
+    {
+
+      "name": "Pola from AL",
+
+      "sources": [
+
+        "https://media.discordapp.net/attachments/1034637607486902312/1133117431720722502/PixelPolaRecolored.png"
+
+      ],
+
+      "x": 1555,
+
+      "y": 1036
+
     }
+
   ],
+
   "whitelist": [
+
     {
+
       "name": "P3ACE",
+
       "url": "https://charity.pxls.space/p3ace"
+
     },
+
     {
+
       "name": "PlaceStart",
+
       "url": "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart.json"
+
     },
+
     {
+
       "name": "GFL + VA-11 Hall-A",
+
       "url": "https://gist.githubusercontent.com/Eremeir/22bac3c2e578c464304922204a0febd2/raw"
+
     },
+
     {
+
       "name": "Genshin",
+
       "url": "https://gist.githubusercontent.com/LeftHandedBread/1619ae0c676814bacb7a2fab0a93d3c7/raw"
+
     },
+
     {
+
       "name": "Neuro-sama",
+
       "url": "https://neuroplace.pages.dev/bruh.json"
+
     },
+
     {
+
       "name": "Inabakumori Station",
+
       "url": "https://gist.githubusercontent.com/D-Brox/4b2455793cabe33be61f040582838c8e/raw"
+
     },
+
     {
+
       "name": "Project Moon (@R4D1 on Discord)",
+
       "url": "https://raw.githubusercontent.com/GEND1ARMER4/PMreddit/main/PM"
+
     },
+
     {
+
       "name": "Oshi no Ko/Senko",
+
       "url": "http://ub8qbd.satdump.org/waitroom.json"
+
     },
+
     {
+
       "name": "Umamusume + Senko Collab",
+
       "url": "http://ub8qbd.satdump.org/umasenko.json"
+
     },
+
     {
+
       "name": "Touhou",
+
       "url": "https://raw.githubusercontent.com/HappyDOGE/touhouplace2023/main/template.json"
+
     },
+
     {
+
       "name": "r/hatsune",
+
       "url": "https://hatsune.proxnet.dev/place/overlayRaw"
+
     },
+
     {
+
       "name": "Türkiye",
+
       "url": "https://kn0.dev/porcay.json"
+
     },
+
     {
+
       "name": "PlaceEU",
+
       "url": "https://raw.githubusercontent.com/Malormar/PlaceEU/main/template.json"
+
     },
+
     {
+
       "name": "Indie Alliance V2",
+
       "url": "https://gist.github.com/AresWacky/926ff6fe925c7268f4a6bceef441469c/raw"
+
     },
+
     {
+
       "name": "r/placefemboy",
+
       "url": "https://pastebin.com/raw/ESaN3Csh"
+
     },
+
     {
+
       "name": "HSRplace",
+
       "url": "https://gist.githubusercontent.com/Pand3sal/2aef9c1ee2ff258c016c1574aaa6d251/raw"
+
     },
+
     {
+
       "name": "Madoka",
+
       "url": "https://nyancat.de/mado16.json"
+
     },
+
     {
+
       "name": "Magia Record",
+
       "url": "https://nyancat.de/mado16.json"
+
     }
+
   ],
+
   "blacklist": [
+
     {
+
       "name": "Old UGA link",
+
       "url": "https://rentry.org/unitedgacha/raw"
+
     }
+
   ]
+
 }
