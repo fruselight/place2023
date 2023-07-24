@@ -122,6 +122,10 @@
     {
       "name": "Madoka",
       "url": "https://nyancat.de/mado16.json"
+    },
+    {
+      "name": "Epic Seven",
+      "url": "https://rentry.org/MaguPlace2023/raw"
     }
   ],
   "blacklist": [
