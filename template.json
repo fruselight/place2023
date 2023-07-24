@@ -88,6 +88,14 @@
       ],
       "x": 780,
       "y": 1235
+    },
+    {
+      "name": "F/SN Tohsaka Rin",
+      "sources": [
+        "https://media.discordapp.net/attachments/1132906688677171331/1132968439850483824/Rin_with_dutch_ribbon.png"
+      ],
+      "x": 97,
+      "y": 492
     }
   ],
   "whitelist": [
