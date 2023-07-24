@@ -12,18 +12,10 @@
     {
       "name": "Arona",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1131812850483073104/1132828450655322223/wXfDWMignBEJWE0HAxea.png"
+        "https://cdn.discordapp.com/attachments/1131812850483073104/1133179704925487204/arona.png"
       ],
-      "x": 629,
+      "x": 129,
       "y": 1787
-    },
-    {
-      "name": "Arona 2",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131812850483073104/1133038891457319022/aronauchfh.png"
-      ],
-      "x": 247,
-      "y": 1830
     },
     {
       "name": "Texas",
