@@ -144,10 +144,6 @@
       "url": "http://ub8qbd.satdump.org/umasenko.json"
     },
     {
-      "name": "UmaSenko but French",
-      "url": "https://sayrix.github.io/PlaceFR/overlay.json"
-    },
-    {
       "name": "Touhou",
       "url": "https://raw.githubusercontent.com/HappyDOGE/touhouplace2023/main/template.json"
     },
