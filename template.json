@@ -48,6 +48,14 @@
       ],
       "x": 468,
       "y": 1252
+    },
+    {
+      "name": "Cygames Duet",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131263002465808494/1132861368173875260/Day_1_small.png"
+      ],
+      "x": 1556,
+      "y": 1935
     }
   ],
   "whitelist": [
