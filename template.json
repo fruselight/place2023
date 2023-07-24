@@ -112,6 +112,14 @@
       ],
       "x": 1351,
       "y": 1926
+    },
+    {
+      "name": "PGR",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131609689482854420/1133070149239443476/151_Sem_Titulo_20230724131453.png"
+      ],
+      "x": 1297,
+      "y": 1956
     }
   ],
   "whitelist": [
